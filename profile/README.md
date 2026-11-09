@@ -6,7 +6,7 @@ We develop research software and computational tools to accelerate the understan
 
 全固体電池や機能性材料の研究を支援する、解析・計算・可視化ツールを開発・公開しています。
 
-**[Official Website](YOUR_LAB_WEBSITE_URL)**
+**[Official Website](http://www.assb.iir.isct.ac.jp/)**
 
 ## Research Areas
 
